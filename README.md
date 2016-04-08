@@ -1,2 +1,2 @@
 # KaggleShelterOutcomes
-Kaggle Competition - Help improve outcomes for shelter animals
+Kaggle Competition - Help improve outcomes for shelter animals.
